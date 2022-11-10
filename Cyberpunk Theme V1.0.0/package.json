@@ -1,0 +1,15 @@
+{
+    "name": "mahmutkaan.cyberpunk",
+    "title": "Cyberpunk",
+    "description": "kind a Cyberpunk",
+    "homepage": "https://github.com/mahmutkaan",
+    "version": "1.0.0",
+    "author": "Mahmut Kaan <mahmut_onkol@hotmail.com> (https://github.com/mahmutkaan)",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme,cyberpunk,mahmutkaan,cyberpunk2077,2077,neon,futuristic,future,tech,technology,mahmut"]
+}
